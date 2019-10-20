@@ -1,7 +1,7 @@
 # Masque
 Masque: Exploring the lateral skin stretch on the face with head-mounted displays
 
-Chi Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Taiwan University </br>
+Chi Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Taiwan University </br>
 Da-Yuan Huang         National Chiao Tung University </br>
 Shuo-Wen Hsu          National Chiao Tung University</br>
 Chu-En Hou            National Chiao Tung University</br>
