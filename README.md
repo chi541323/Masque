@@ -2,6 +2,7 @@
 Masque: Exploring the lateral skin stretch on the face with head-mounted displays
 
 Chi Wang              National Taiwan University </br >
+</br >
 Da-Yuan Huang         National Chiao Tung University </br >
 Shuo-Wen Hsu          National Chiao Tung University</br>
 Chu-En Hou            National Chiao Tung University</br>
